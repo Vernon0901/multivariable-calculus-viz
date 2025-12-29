@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let yVal = 0.5;
     // --- API Key ---
     // User provided key
-    const apiKey = 'INSERT API KEY HERE';
+    const apiKey = 'YOUR_GEMINI_API_KEY_HERE';
 
     const toggles = {
         crossSections: false,
@@ -497,4 +497,5 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize
     parseFunction(funcString);
     updatePlot();
+
 });
