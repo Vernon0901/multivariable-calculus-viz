@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // --- API Key ---
     // User provided key
-    const apiKey = 'AIzaSyBlQCAcM_KkWoTFsHjQyvlM9LZbEJPSkJ0';
+    const apiKey = 'INSER_YOUT_GEMINI_API_KEY';
 
     const toggles = {
         crossSections: false,
@@ -491,5 +491,6 @@ window.addEventListener('resize', () => {
     parseFunction(funcString);
     updateSliderBounds();
     updatePlot();
+
 
 });
