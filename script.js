@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // --- API Key ---
     // User provided key
-    const apiKey = 'INSER_YOUT_GEMINI_API_KEY';
+    const apiKey = 'AIzaSyDUmxWaGUuP0lCFFJUZF57TW5yPAzWV6no';
 
     const toggles = {
         crossSections: false,
@@ -494,3 +494,4 @@ window.addEventListener('resize', () => {
 
 
 });
+
